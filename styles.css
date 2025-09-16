@@ -28,6 +28,6 @@ body {
     border-radius: 5px;
 }
 .code:focus {
-    border-color: #007bff; /* Change border color on focus */
-    outline: none; /* Remove default outline */
+    border-color: #007bff; 
+    outline: none; 
 }
